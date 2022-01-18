@@ -1,0 +1,27 @@
+
+
+.all {
+    
+    font-family: 'Roboto', 'Arial', sans-serif;
+    background-color: rgb(240, 242, 245);
+    width: 80%;
+    height: 100%;
+    margin: 0px auto 0px auto; /* valores assim: top, esquerda, botton , direita. Essa maneira centraliza o conteúdo */
+    
+    
+}
+.agas {
+    
+    padding: 30px;
+    border-bottom: 2px solid rgb(201, 199, 199);
+   
+}
+.agas h3 {
+    color: rgb(29, 191, 212);
+}
+ .agas p {
+     font-family: 'Montserrat', 'Roboto', sans-serif; /* 1º opção, 2º opcao, etc.*/
+ }
+
+
+    
